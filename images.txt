@@ -11,4 +11,4 @@
 #grafana/grafana:main
 #victoriametrics/victoria-metrics:v1.76.1
 #grafana/grafana:8.4.6
-YueChuCc/alertmanager-dingtalk-hook
+cnych/alertmanager-dingtalk-hook
