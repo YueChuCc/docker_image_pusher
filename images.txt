@@ -10,4 +10,5 @@
 #prom/prometheus:v2.35.0
 #grafana/grafana:main
 #victoriametrics/victoria-metrics:v1.76.1
-grafana/grafana:8.4.6
+#grafana/grafana:8.4.6
+YueChuCc/alertmanager-dingtalk-hook
