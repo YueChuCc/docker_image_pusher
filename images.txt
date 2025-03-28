@@ -12,4 +12,4 @@
 #victoriametrics/victoria-metrics:v1.76.1
 #grafana/grafana:8.4.6
 #cnych/alertmanager-dingtalk-hook:v0.3.6
-YueChuCc/kiali
+kiali/kiali:v1.34
